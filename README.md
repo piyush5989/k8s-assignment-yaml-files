@@ -9,7 +9,11 @@ The source code for this project is hosted on GitHub, it is built using Java and
 
 ## Docker Hub
 
-Docker images for this project are available on Docker Hub. You can pull the latest image using the following command:
+Docker images for this project are available on Docker Hub:
+
+[k8s-devops-advanced-code-image](https://hub.docker.com/repository/docker/piyush050389/k8s-devops-advanced-code/general)
+
+You can pull the latest image using the following command:
 
 ```bash
 docker pull piyush050389/k8s-devops-advanced-code:1.0

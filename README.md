@@ -26,6 +26,6 @@ To view the details from backend tier, please use below links:
 
 ## Demo Recording
 
-To watch the screen recording of assignment submitted, please use below link
+To watch the recorded demo of assignment, please use below link:
 
-[demo-recording](http://35.224.66.2:30080/)
+[demo-recording](https://nagarro-my.sharepoint.com/:v:/r/personal/piyush_yadav_nagarro_com/Documents/Recording-20240602_163306.webm?csf=1&web=1&e=Uf1zJ7&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiIwZWUwYzFhZS04OTAwLTQ2MjUtYjk2OC1hMWMyYzAwOWRlNzIifX0%3D)

@@ -24,9 +24,9 @@ docker pull piyush050389/k8s-devops-advanced-code:1.1
 
 To view the details from backend tier, please use below links:
 
-[k8s-devops-advanced-service-node-1](http://35.224.66.2:30080/)
+[k8s-devops-advanced-service-node-1](http://35.224.66.2:30080/records)
 
-[k8s-devops-advanced-service-node-2](http://34.66.54.97:30080/)
+[k8s-devops-advanced-service-node-2](http://34.66.54.97:30080/records)
 
 ## Demo Recording
 
